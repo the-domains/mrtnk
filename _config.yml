@@ -1,7 +1,7 @@
 name: mrtnk
 favicon: null
-layout_spectrum: 0.17789026000536978
-typography_spectrum: 0.6273104788269848
+layout_spectrum: 0.88695
+typography_spectrum: 0.70617
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7769944935571402
-  lightness: 0.1643004270736128
-  saturation: 0.31307781976647675
-  rhythmicContrast: 0.6747938001062721
+    - '#20676a'
+    - '#eafde7'
+    - '#bff031'
+    - '#8ac235'
+    - '#53944c'
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
