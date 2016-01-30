@@ -2,12 +2,13 @@ name: mrtnk
 favicon: null
 layout_spectrum: 0.88695
 typography_spectrum: 0.70617
+title: Home of Martins thoughts and things
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-808807-1
   facebook: null
   twitter: null
 opengraph:
