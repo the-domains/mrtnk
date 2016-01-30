@@ -1,7 +1,7 @@
 name: mrtnk
 favicon: null
-layout_spectrum: 0.88695
-typography_spectrum: 0.70617
+layout_spectrum: 0.87154
+typography_spectrum: 0.11465
 title: Home of Martins thoughts and things
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#20676a'
-    - '#eafde7'
-    - '#bff031'
-    - '#8ac235'
-    - '#53944c'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
+    - '#169889'
+    - '#f55a3a'
+    - '#ecb83f'
+    - '#cc1d3a'
+    - '#a3a84f'
+  brandStrength: 0.0625
+  lightness: 0
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
