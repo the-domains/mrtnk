@@ -1,20 +1,4 @@
-name: mrtnk
-favicon: null
-layout_spectrum: 0.33397
 typography_spectrum: 0.94509
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-808807-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#169889'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 0.3125
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.33397
+analytics:
+  google: UA-808807-1
+  facebook: null
+  twitter: null
+name: mrtnk
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: null
 purpose: []
