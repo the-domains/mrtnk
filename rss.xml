@@ -4,8 +4,15 @@
         <description><![CDATA[mrtnk]]></description>
         <link>http://mrtnk.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 08:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 08:39:06 GMT</lastBuildDate>
         <atom:link href="http://mrtnk.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mathemagic]]></title>
+            <description><![CDATA[<article><h1>Mathemagic</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83e17c2e7fd17eeeff908388ae5d46a12b649ad4.gif"></article>]]></description>
+            <link>http://mrtnk.nl/8d1edff4-71f7-4c73-b35b-eb09fbae4ffc/index.html</link>
+            <guid isPermaLink="false">8d1edff4-71f7-4c73-b35b-eb09fbae4ffc</guid>
+            <pubDate>Wed, 24 Aug 2016 08:39:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0828136c-a656-469c-99e0-fce936117639.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>http://mrtnk.nl/infinity/index.html</link>
             <guid isPermaLink="false">57d84861-e0d7-43f1-9ecd-5ba8f4d5a758</guid>
             <pubDate>Wed, 24 Aug 2016 07:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://media.giphy.com/media/26vUtiQOxU9xkNRXa/giphy.gif">]]></description>
-            <link>http://mrtnk.nl/8d1edff4-71f7-4c73-b35b-eb09fbae4ffc/index.html</link>
-            <guid isPermaLink="false">8d1edff4-71f7-4c73-b35b-eb09fbae4ffc</guid>
-            <pubDate>Thu, 09 Jun 2016 08:12:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Torodial Flow]]></title>
